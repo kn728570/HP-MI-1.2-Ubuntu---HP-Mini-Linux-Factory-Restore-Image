@@ -10,10 +10,10 @@ The image was successfully written to USB and installed on original-period HP Mi
 The recovered factory image identifies itself as:
 
 
-DISTRIB_ID="HP Mi (Mobile Internet)"
+'DISTRIB_ID="HP Mi (Mobile Internet)"
 DISTRIB_RELEASE=1.2
 DISTRIB_DESCRIPTION="HP Mi (Mobile Internet)"
-Its underlying Ubuntu release is:
+Its underlying Ubuntu release is:'
 Ubuntu 8.04.2
 The installer identifies itself as:
 Welcome to the dennis-1-2-20090417-2 installer
