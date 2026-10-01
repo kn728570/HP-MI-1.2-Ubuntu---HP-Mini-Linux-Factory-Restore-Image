@@ -9,7 +9,7 @@ The image was successfully written to USB and installed on original-period HP Mi
 
 The recovered factory image identifies itself as:
 
-```text
+
 DISTRIB_ID="HP Mi (Mobile Internet)"
 DISTRIB_RELEASE=1.2
 DISTRIB_DESCRIPTION="HP Mi (Mobile Internet)"
