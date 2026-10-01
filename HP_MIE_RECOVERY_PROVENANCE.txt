@@ -1,0 +1,30 @@
+HP MIE RECOVERY IMAGE - RECOVERY PROVENANCE
+Recovered: 2026-09-30
+
+Archived HP Linux software item:
+  ob-68020-1
+  HP MIE Restore Image Creator (for Linux)
+  Archived product tested: HP Mini 1120NR PC, Linux (os=2020)
+
+Live HP creator URL:
+  https://ftp.hp.com/pub/softlib/software10/COL27307/ob-68020-1/liveusb-creator-ubuntu_0.3.3netbook0dennis5_all.deb
+Creator SHA256:
+  5C6884F6008229828C9C792F2285E17F24E5D8F77CD8FDC4A0830AB9A78935E8
+
+Creator embedded recovery URL:
+  ftp://ftp.hp.com/pub/softlib/software10/COL25940/dennis-stable-install-usb-gm-1.img
+Live HTTPS recovery URL:
+  https://ftp.hp.com/pub/softlib/software10/COL25940/dennis-stable-install-usb-gm-1.img
+
+Recovery image size: 1,154,482,176 bytes
+Recovery image SHA256:
+  6778E5136F1D954726E0B0A5D4F7C5A2D3B624399CF99A977C13998C8366E43F
+Recovery image MD5:
+  5B4B213778FADD6347F7C32CAE0FCC02
+
+Internal identity:
+  HP Mi (Mobile Internet) 1.2
+  Ubuntu 8.04.2 base
+  x86 LPIA, kernel 2.6.24-22-lpia
+  Installer build string: dennis-1-2-20090417-2
+  USB image built: 2009-04-17

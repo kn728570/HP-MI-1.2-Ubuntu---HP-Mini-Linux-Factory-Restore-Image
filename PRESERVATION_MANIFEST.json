@@ -1,0 +1,79 @@
+﻿[
+    {
+        "name":  "dennis-stable-install-usb-gm-1.img",
+        "bytes":  1154482176,
+        "last_write_utc":  "2026-10-01T04:28:06.5628589Z",
+        "sha256":  "6778E5136F1D954726E0B0A5D4F7C5A2D3B624399CF99A977C13998C8366E43F",
+        "md5":  "5B4B213778FADD6347F7C32CAE0FCC02"
+    },
+    {
+        "name":  "HP_MIE_RECOVERY_PROVENANCE.txt",
+        "bytes":  1040,
+        "last_write_utc":  "2026-10-01T04:33:14.0838583Z",
+        "sha256":  "4655068484C36A70E4B0D2F7959EF7FABE5C186A22FFFB801CD763683D688207",
+        "md5":  "60E76620A7FE737D762FA0FD1F4E4185"
+    },
+    {
+        "name":  "ImageCreator.msi",
+        "bytes":  863744,
+        "last_write_utc":  "2026-10-01T04:24:07.3315575Z",
+        "sha256":  "8E4369C18923D05783768641B416E84B0941AD479225D8891B703320F9BB4F7B",
+        "md5":  "978A590BC983CD69A7BF3271158FFB2F"
+    },
+    {
+        "name":  "liveusb-creator-ubuntu_0.3.3netbook0dennis5_all.deb",
+        "bytes":  830568,
+        "last_write_utc":  "2026-10-01T04:26:19.1078265Z",
+        "sha256":  "5C6884F6008229828C9C792F2285E17F24E5D8F77CD8FDC4A0830AB9A78935E8",
+        "md5":  "E632AAB17C1A6C3DE0C5D668AD09F48A"
+    },
+    {
+        "name":  "ob-68017-1_20090211.html",
+        "bytes":  53495,
+        "last_write_utc":  "2026-10-01T04:23:19.3524696Z",
+        "sha256":  "D775478034D3E2744CDED3B52916FCE9E6A379F44F5E6B03B4E83C70A000BA83",
+        "md5":  "86C12D386F323212DDF27A9AB81523DB"
+    },
+    {
+        "name":  "ob-68020-1_20090212.html",
+        "bytes":  54479,
+        "last_write_utc":  "2026-10-01T04:26:03.8656951Z",
+        "sha256":  "86C458E399788993B6D17B62F0DE028EDAB32B865F4597B7B7FFF8564E9674DB",
+        "md5":  "21B81E1BB175D76D798A36F33BBDC9EE"
+    },
+    {
+        "name":  "README_PRESERVATION.txt",
+        "bytes":  905,
+        "last_write_utc":  "2026-10-01T04:50:19.3484686Z",
+        "sha256":  "38E94747ABE50C12120D33B1319B623B363CAC819D1EE8A1F3B916F9DF2BFF7B",
+        "md5":  "957F8B6B08D90A0BE46675C8022CDDFD"
+    },
+    {
+        "name":  "softwareList_3860346_20090210.html",
+        "bytes":  42067,
+        "last_write_utc":  "2026-10-01T04:25:15.9360864Z",
+        "sha256":  "3FFF1D9BCBDD33B1B8457D4592890B53FDA4536D3677934F86F34B5822F64E15",
+        "md5":  "304954A4E109ED002DB54721A024562E"
+    },
+    {
+        "name":  "softwareList_3860346_cdx.json",
+        "bytes":  639,
+        "last_write_utc":  "2026-10-01T04:24:56.5097959Z",
+        "sha256":  "921BFFF144F20696439DF22D28A8B23E11D86A6647BC688DC6B1F10AEDA2DF4C",
+        "md5":  "06294BD6F4BC7176987BE398B1E2EB8E"
+    },
+    {
+        "name":  "wayback_ob68017_1.json",
+        "bytes":  1807,
+        "last_write_utc":  "2026-10-01T04:22:54.0146380Z",
+        "sha256":  "4E5BB7F86118CE60FAC02416A7C4BEA3770FF1030F5190F1E2AF79F254E92BCA",
+        "md5":  "3B98CB9E6F2334BF3FF30EC2F60581CD"
+    },
+    {
+        "name":  "wayback_ob68020.json",
+        "bytes":  425,
+        "last_write_utc":  "2026-10-01T04:25:47.6676106Z",
+        "sha256":  "8014FD497A9B134EA27B7D6C67A9B8EBF33C2315277D8B00BD9143884BC04DAC",
+        "md5":  "464A9A548AF4A3285ED7AC56BADE2949"
+    }
+]
