@@ -1,0 +1,2 @@
+# HP-MI-1.2-Ubuntu---HP-Mini-Linux-Factory-Restore-Image
+HP Mi 1.2 / "Dennis" — Recovered HP Mini Linux Factory Restore Image  This repository documents the recovery and preservation of **HP Mi (Mobile Internet) 1.2**, an HP-customized Ubuntu distribution shipped for some HP Mini netbooks around 2009.  The recovered image is an authentic HP factory restore image, traced through archived HP support pages.
